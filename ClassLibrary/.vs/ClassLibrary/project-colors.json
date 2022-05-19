@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d7fcc4c-f6c6-4284-8ae8-9087623de40e": {
+      "ProjectGuid": "2d7fcc4c-f6c6-4284-8ae8-9087623de40e",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 0
+    },
+    "c72d9479-c572-442c-a513-d6d36ff4cd91": {
+      "ProjectGuid": "c72d9479-c572-442c-a513-d6d36ff4cd91",
+      "DisplayName": "shapescalculator",
+      "ColorIndex": 1
+    },
+    "940284aa-dd6e-40ed-95f1-77e154f4163e": {
+      "ProjectGuid": "940284aa-dd6e-40ed-95f1-77e154f4163e",
+      "DisplayName": "testsprogramm",
+      "ColorIndex": 2
+    },
+    "e4ef4848-2920-45ef-99ed-95b7f1d8d222": {
+      "ProjectGuid": "e4ef4848-2920-45ef-99ed-95b7f1d8d222",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
